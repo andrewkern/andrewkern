@@ -1,6 +1,8 @@
 ## Welcome to my Github
 
-I'm a Population Geneticist that is interested in using computation and mathmeatical modelling to understand genetic variation
+I'm a Population Geneticist that is interested in using computers and math to understand genetic variation and evolution.
+
+If you are interested in contacting me please visit my [lab homepage]([https://kr-colab.github.io/])
 
 <!--
 **andrewkern/andrewkern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
