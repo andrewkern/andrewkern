@@ -8,8 +8,8 @@ Current interests:
 - spatial population genetics
 
 Links:
-- Lab: https://kr-colab.github.io/
-- Publications: https://scholar.google.com/citations?user=s6iwrRIAAAAJ&hl=en
+- 🌐 Lab: https://kr-colab.github.io/
+- 📚 Publications: https://scholar.google.com/citations?user=s6iwrRIAAAAJ&hl=en
 
 
 Pinned repos below highlight the tools and projects I’m most actively maintaining.
