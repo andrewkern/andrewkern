@@ -1,4 +1,6 @@
-## Hi there 👋
+## Welcome to my Github
+
+I'm a Population Geneticist that is interested in using computation and mathmeatical modelling to understand genetic variation
 
 <!--
 **andrewkern/andrewkern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
