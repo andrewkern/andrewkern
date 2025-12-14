@@ -12,7 +12,7 @@ Links:
 - 📚 Publications: https://scholar.google.com/citations?user=s6iwrRIAAAAJ&hl=en
 
 
-Pinned repos below highlight the tools and projects I’m most actively maintaining.
+Pinned repos below highlight some of the tools and projects I've worked on
 
 
 <!--
